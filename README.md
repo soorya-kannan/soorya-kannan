@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Soorya</h1>
-# 💫 About Me:
+<h3>💫 About Me:</h3>
 I am a full-stack developer working full-time, collaborating efficiently with my team. My tech stack includes React, Angular, Python, .NET Core API, MongoDB, and MSSQL. I follow a "vibe coding" approach to simplify tasks, speed up development, and leverage AI tools for better project understanding. As a professional programmer, I enjoy exploring new technologies and making development both efficient and fun.
 
 
